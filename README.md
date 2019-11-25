@@ -1,4 +1,4 @@
-# Lista de Tarefas - Lucas Martins
+# Lista de Tarefas
 
 Aplicativo para gerenciar as tarefas do dia-a-dia criado para disciplina de Programação Mobile.
 
